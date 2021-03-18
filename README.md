@@ -8,4 +8,4 @@ Goal: find out the best pokemons that we use against an opponent based on variou
 
 •	Derived and presented insights from the results to provide recommendations for game users
 
-Tableau public link:  https://public.tableau.com/profile/mia3235#!/vizhome/Project_Infographics/Story1?publish=yes!
+Tableau public link:  https://public.tableau.com/profile/mia3235#!/vizhome/Project_Infographics/Story1?publish=yes
